@@ -1,0 +1,3 @@
+[submodule "foundation"]
+	path = foundation
+	url = https://github.com/Mango-information-systems/foundation.git
